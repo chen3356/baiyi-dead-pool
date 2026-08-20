@@ -1,0 +1,2687 @@
+{
+  "version": 1,
+  "updated_at": "2026-08-14T01:54:50.230Z",
+  "entries": [
+    {
+      "email": "ender@addressiletisim.com",
+      "domain": "addressiletisim.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.437Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "hayat@hayat.com.tr",
+      "domain": "hayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.438Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@hayat.com.tr",
+      "domain": "hayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.438Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "export@hayat.com.tr",
+      "domain": "hayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.438Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "i̇nfo@hayat.com.tr",
+      "domain": "hayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.438Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "defaultgb@hayat.com.tr",
+      "domain": "hayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.438Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "defaultpk@hayat.com.tr",
+      "domain": "hayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.438Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "license@hayat.com.tr",
+      "domain": "hayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.438Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "europe@alhayatgroup.co.uk",
+      "domain": "alhayatgroup.co.uk",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.438Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "hizmet@anadoluhayat.com.tr",
+      "domain": "anadoluhayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@bizimhayat.com.tr",
+      "domain": "bizimhayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "musterihizmetleri@fibaemeklilik.com.tr",
+      "domain": "fibaemeklilik.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@hayat.sa.com",
+      "domain": "hayat.sa.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "alhayat@eim.ae",
+      "domain": "eim.ae",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@hayatandhayat.com",
+      "domain": "hayatandhayat.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "mail@hayatcomm.net",
+      "domain": "hayatcomm.net",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@aktulkagit.com.tr",
+      "domain": "aktulkagit.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "sales@alhayat.ae",
+      "domain": "alhayat.ae",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "anlasmalikurumlar@demirsaglik.com.tr",
+      "domain": "demirsaglik.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "tazminatmusterihizmetleri@demirsaglik.com.tr",
+      "domain": "demirsaglik.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@dermohayat.com.tr",
+      "domain": "dermohayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@dogalhayat.com.tr",
+      "domain": "dogalhayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "hayat@chtm.unm.edu",
+      "domain": "chtm.unm.edu",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "majeed.hayat@marquette.edu",
+      "domain": "marquette.edu",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "dubai.park@hyatt.com",
+      "domain": "hyatt.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@e-hayat.com.tr",
+      "domain": "e-hayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "residences.ghmumbai@hyatt.com",
+      "domain": "hyatt.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@kastamonu.ro",
+      "domain": "kastamonu.ro",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "familycontact@hayat.dz",
+      "domain": "hayat.dz",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@bimsereurope.com",
+      "domain": "bimsereurope.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "bkursun@keas.com.tr",
+      "domain": "keas.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "amer@hayatinoxmed.com",
+      "domain": "hayatinoxmed.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@hayat-yolu.org",
+      "domain": "hayat-yolu.org",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "saogh-concierge@hyatt.com",
+      "domain": "hyatt.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "huahin.regency@hyatt.com",
+      "domain": "hyatt.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "spa.grandhyattdubai@hyatt.com",
+      "domain": "hyatt.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "bursahayat@bursahayat.com",
+      "domain": "bursahayat.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@yenihayat.com.tr",
+      "domain": "yenihayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@garantiguvenlik.com.tr",
+      "domain": "garantiguvenlik.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "bilgi@yenibirhayat.com.tr",
+      "domain": "yenibirhayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "secmak@secmakmakina.com.tr",
+      "domain": "secmakmakina.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "notification@officerenewstore.co",
+      "domain": "officerenewstore.co",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "editor@sadehayat.com",
+      "domain": "sadehayat.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "bilgi@hidrokaya.com",
+      "domain": "hidrokaya.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@konakkimya.com",
+      "domain": "konakkimya.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "cv@natron-hayat.ba",
+      "domain": "natron-hayat.ba",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "bayramparlak@parkhayat.com",
+      "domain": "parkhayat.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "bengikaytancisozen@parkhayat.com",
+      "domain": "parkhayat.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "umitkiler@kiler.com.tr",
+      "domain": "kiler.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@parshayat.ir",
+      "domain": "parshayat.ir",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@aksankozmetik.com.tr",
+      "domain": "aksankozmetik.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "teknikkimya@teknikkimya.com.tr",
+      "domain": "teknikkimya.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "hayat@radyohayat.com.tr",
+      "domain": "radyohayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "hanifi@radyohayat.com.tr",
+      "domain": "radyohayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "hakki@hayatmedya.com.tr",
+      "domain": "hayatmedya.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "vahab@radyohayat.com.tr",
+      "domain": "radyohayat.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@endekskimya.com",
+      "domain": "endekskimya.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@easysoftware.com.tr",
+      "domain": "easysoftware.com.tr",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@royalehayat.com",
+      "domain": "royalehayat.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "ik.iletisim@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "jumborollsales@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "kurumsal.iletisim@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "tuketicihatti@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "yarnexport@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "etikhat@lilkagit.com",
+      "domain": "lilkagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "maylo@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "tansel.arslan@marmarapamuklu.com",
+      "domain": "marmarapamuklu.com",
+      "core": "LILA KAGIT",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "iklilamarmara@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "export@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "yatirimciiliskileri@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "investorrelations@lilakagit.com",
+      "domain": "lilakagit.com",
+      "core": "LILA KAGIT",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "ridea@maquani.com",
+      "domain": "maquani.com",
+      "core": "LILA KAGIT",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@marmarapamuklu.com",
+      "domain": "marmarapamuklu.com",
+      "core": "LILA KAGIT",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "jumborollsales@essel.com.tr",
+      "domain": "essel.com.tr",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "essel@essel.com.tr",
+      "domain": "essel.com.tr",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "export@essel.com.tr",
+      "domain": "essel.com.tr",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@essel.com.tr",
+      "domain": "essel.com.tr",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.439Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@esselkagit.com",
+      "domain": "esselkagit.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.440Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@betongyapi.com",
+      "domain": "betongyapi.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.440Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@essel-deutschland.de",
+      "domain": "essel-deutschland.de",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.440Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info.europe@ep.esselgroup.com",
+      "domain": "ep.esselgroup.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.440Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "exposales@esselindia.com",
+      "domain": "esselindia.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.440Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "essel@esselkagit.com",
+      "domain": "esselkagit.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.440Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "emil.bcml@adityabirla.com",
+      "domain": "adityabirla.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.441Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@nagpurpulse.com",
+      "domain": "nagpurpulse.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.441Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "caycumaosb@cayorsan.org.tr",
+      "domain": "cayorsan.org.tr",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.441Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "feedback@esselgroup.com",
+      "domain": "esselgroup.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.441Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "sales@exeterwindowstore.co.uk",
+      "domain": "exeterwindowstore.co.uk",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.441Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "contact@faudi-aviation.com",
+      "domain": "faudi-aviation.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.441Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@pelenkoglu.com.tr",
+      "domain": "pelenkoglu.com.tr",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.441Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@sehermensucat.com",
+      "domain": "sehermensucat.com",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "fabrika@shower.com.tr",
+      "domain": "shower.com.tr",
+      "core": "ESSEL SELULOZ",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@prigobaski.com",
+      "domain": "prigobaski.com",
+      "core": "PRIGO DIJITAL",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "destek@prigobaski.com",
+      "domain": "prigobaski.com",
+      "core": "PRIGO DIJITAL",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "webyatirimciiliskileri@tezol.com.tr",
+      "domain": "tezol.com.tr",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "europaptezol@hs01.kep.tr",
+      "domain": "hs01.kep.tr",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@tezol.com.tr",
+      "domain": "tezol.com.tr",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "yatirimciiliskileri@tezol.com.tr",
+      "domain": "tezol.com.tr",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "sales@amotek.com",
+      "domain": "amotek.com",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@agromerbiosan.com",
+      "domain": "agromerbiosan.com",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "ik@dentaskagit.com.tr",
+      "domain": "dentaskagit.com.tr",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@jdmengineschicago.com",
+      "domain": "jdmengineschicago.com",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "pamela@taiji.no",
+      "domain": "taiji.no",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "banner@bannerakkumulator.hu",
+      "domain": "bannerakkumulator.hu",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "support@daleelturkiye.net",
+      "domain": "daleelturkiye.net",
+      "core": "EUROPAP TEZOL",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "sevkiyat@goncayplastik.com",
+      "domain": "goncayplastik.com",
+      "core": "GONCAY PLASTIK",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "kalite@goncayplastik.com",
+      "domain": "goncayplastik.com",
+      "core": "GONCAY PLASTIK",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "export@goncayplastik.com",
+      "domain": "goncayplastik.com",
+      "core": "GONCAY PLASTIK",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "orders@goncaypackaging.com",
+      "domain": "goncaypackaging.com",
+      "core": "GONCAY PLASTIK",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "sales@goncayplastik.com",
+      "domain": "goncayplastik.com",
+      "core": "GONCAY PLASTIK",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "orders@goncayplastik.com",
+      "domain": "goncayplastik.com",
+      "core": "GONCAY PLASTIK",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@goncayplastik.com",
+      "domain": "goncayplastik.com",
+      "core": "GONCAY PLASTIK",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@canpetplastik.com",
+      "domain": "canpetplastik.com",
+      "core": "GONCAY PLASTIK",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "alicabuk@beselfoil.com",
+      "domain": "beselfoil.com",
+      "core": "GONCAY PLASTIK",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "kayseri@modern-ambalaj.com.tr",
+      "domain": "modern-ambalaj.com.tr",
+      "core": "MODERN OLUKLU",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "onur.gulmeric@erikli.nestlewaters.com.tr",
+      "domain": "erikli.nestlewaters.com.tr",
+      "core": "MODERN OLUKLU",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@modern-ambalaj.com.tr",
+      "domain": "modern-ambalaj.com.tr",
+      "core": "MODERN OLUKLU",
+      "reason_code": "generic_dept",
+      "reason_text": "通用部门/功能邮箱（info/sales/orders/muhasebe/finans/ik…）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@bursamodernambalaj.com.tr",
+      "domain": "bursamodernambalaj.com.tr",
+      "core": "MODERN OLUKLU",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "abdullah.cebi@sunchemical.com",
+      "domain": "sunchemical.com",
+      "core": "MODERN OLUKLU",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "ahmet.ari@adopen.com.tr",
+      "domain": "adopen.com.tr",
+      "core": "MODERN OLUKLU",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "muhasebe@bifa.com.tr",
+      "domain": "bifa.com.tr",
+      "core": "MODERN OLUKLU",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@bursamodern-ambalaj.com.tr",
+      "domain": "bursamodern-ambalaj.com.tr",
+      "core": "MODERN OLUKLU",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "info@silivrimodern-ambalaj.com.tr",
+      "domain": "silivrimodern-ambalaj.com.tr",
+      "core": "MODERN OLUKLU",
+      "reason_code": "cross_domain",
+      "reason_text": "跨域污染（第三方搜索域名≠官网域名）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:24.443Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "hayatacservice@gmail.com",
+      "domain": "gmail.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "personal_blocked",
+      "reason_text": "个人免费邮箱（公司有企业域名时按规则不发）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:45.944Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "hayatandhayat@hotmail.com",
+      "domain": "hotmail.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "personal_blocked",
+      "reason_text": "个人免费邮箱（公司有企业域名时按规则不发）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:45.945Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "kolyaakov1703@gmail.com",
+      "domain": "gmail.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "personal_blocked",
+      "reason_text": "个人免费邮箱（公司有企业域名时按规则不发）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:45.945Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "esraozel01@gmail.com",
+      "domain": "gmail.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "personal_blocked",
+      "reason_text": "个人免费邮箱（公司有企业域名时按规则不发）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:45.945Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "ipsnews@hotmail.com",
+      "domain": "hotmail.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "personal_blocked",
+      "reason_text": "个人免费邮箱（公司有企业域名时按规则不发）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:45.945Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "prodexkimya@hotmail.com",
+      "domain": "hotmail.com",
+      "core": "HAYAT KIMYA",
+      "reason_code": "personal_blocked",
+      "reason_text": "个人免费邮箱（公司有企业域名时按规则不发）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:45.945Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "neslihan_ozyapar@yahoo.com",
+      "domain": "yahoo.com",
+      "core": "LILA KAGIT",
+      "reason_code": "personal_blocked",
+      "reason_text": "个人免费邮箱（公司有企业域名时按规则不发）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:45.945Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "aygliparis@hotmail.com",
+      "domain": "hotmail.com",
+      "core": "LILA KAGIT",
+      "reason_code": "personal_blocked",
+      "reason_text": "个人免费邮箱（公司有企业域名时按规则不发）",
+      "source": "HS48_batch10_20260814",
+      "added_at": "2026-08-14T01:23:45.945Z",
+      "added_by": "auto_filter"
+    },
+    {
+      "email": "sales@mabati.com",
+      "domain": "mabati.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.170Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "purchasing.ke@totalenergies.ke",
+      "domain": "totalenergies.ke",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "3240@balikesir.com",
+      "domain": "balikesir.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "oxxxxu@tatmetal.com",
+      "domain": "tatmetal.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "bulten@tarim.com.tr",
+      "domain": "tarim.com.tr",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "kemalpiyanci@altuntas.com.tr",
+      "domain": "altuntas.com.tr",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "info@bcpetroenergy.com",
+      "domain": "bcpetroenergy.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "angela.strank@bp.com",
+      "domain": "bp.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "monte3@bp.com",
+      "domain": "bp.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "tony.hayward@bp.com",
+      "domain": "bp.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "gulfsciencedata@bp.com",
+      "domain": "bp.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "gmctmarine@bp.com",
+      "domain": "bp.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "omifrfuels@bp.com",
+      "domain": "bp.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "olaf.carrera@bp.com",
+      "domain": "bp.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "willsonsm@bp.com",
+      "domain": "bp.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "sc@gulfoilltd.com",
+      "domain": "gulfoilltd.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "asif@gulfoilltd.com",
+      "domain": "gulfoilltd.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "fr@gulfoilltd.com",
+      "domain": "gulfoilltd.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ph@gulfoilltd.com",
+      "domain": "gulfoilltd.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "km@gulfoilltd.com",
+      "domain": "gulfoilltd.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "usama@atlanticlubes.com",
+      "domain": "atlanticlubes.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "info@delmonte.co.ke",
+      "domain": "delmonte.co.ke",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "prudence.mkungo@ldcom.com",
+      "domain": "ldcom.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "info@lunarfarm.ke",
+      "domain": "lunarfarm.ke",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "request@markrain.com",
+      "domain": "markrain.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "info@warisco.co.ke",
+      "domain": "warisco.co.ke",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "harun.cicek@boyteks.com",
+      "domain": "boyteks.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "zahit@zahitaluminyum.com.tr",
+      "domain": "zahitaluminyum.com.tr",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "yalcin.ozavci@servetmadeni.com",
+      "domain": "servetmadeni.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "bilgi@dikkan.com.tr",
+      "domain": "dikkan.com.tr",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "bulten@uzermak.com",
+      "domain": "uzermak.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "bakoglu@toyotatsusho.com.tr",
+      "domain": "toyotatsusho.com.tr",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "posta@kimsan.com.tr",
+      "domain": "kimsan.com.tr",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "nfo@alfamatbaa.com",
+      "domain": "alfamatbaa.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "b.celebi@kilicambalaj.com.tr",
+      "domain": "kilicambalaj.com.tr",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "IMAP 退信扫描(对方邮箱失效)",
+      "source": "imap_live_scan_20260814",
+      "added_at": "2026-08-14T01:42:08.174Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "contacto@mx.lukoil.com",
+      "domain": "mx.lukoil.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "info@nissan.com.mx",
+      "domain": "nissan.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "mkt@nissan.com.mx",
+      "domain": "nissan.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "reclutamiento@nissan.com.mx",
+      "domain": "nissan.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "informes@nissan.com.mx",
+      "domain": "nissan.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "asalazar@casadelperno.net",
+      "domain": "casadelperno.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.1.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "kathy.crickmore@castrol.com",
+      "domain": "castrol.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "scott.johnson@castrol.com",
+      "domain": "castrol.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "lmeza@casadelperno.net",
+      "domain": "casadelperno.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.1.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "sales@linagronv.com",
+      "domain": "linagronv.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 邮件无法送达)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "sales@lubrizoladvancedmaterialseuropebv.com",
+      "domain": "lubrizoladvancedmaterialseuropebv.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 邮件无法送达)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "tessa.wang@pklube.com",
+      "domain": "pklube.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 551 5.1.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "arturo.mora@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "diana.castro@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "direccion.logistica@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "diana.sierra@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "mindap@argema.com.tr",
+      "domain": "argema.com.tr",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: does not exist)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "garagup@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "fermena@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "export@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "rojgonr@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "rodbaug@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "marnavl@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "alclopr@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "conlopf@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "garpadr@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "mercadotecnia@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "apollonia@motorollubes.com",
+      "domain": "motorollubes.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "pilar.gomez@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "diana.cadena@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "yesica.lopez@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "export@aripet.com",
+      "domain": "aripet.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 地址不存在)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "delcuea@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "mansanm@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "daniel.garcia@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "garmayv@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "figzamr@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "conlopd@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "romortm@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "angromr@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "fuearia@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "loyherr@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "hiren@motorollubes.com",
+      "domain": "motorollubes.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "information@nissan.com.mx",
+      "domain": "nissan.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "poconnell@owi.com",
+      "domain": "owi.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "jpowers@owi.com",
+      "domain": "owi.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "kroessler@owi.com",
+      "domain": "owi.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "soporte.mobilserv@terpel.com",
+      "domain": "terpel.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "gagudelo@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "m.lopez@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "sanreyj@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "perbarm@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "yeimmy.gonzalez@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ivonne.moreno@importex.com.co",
+      "domain": "importex.com.co",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "gongonj@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ayamorj@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "lanrive@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "lopcarj@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "jimvazg@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "corchaa@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "almjimh@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "galordr@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "lujcasa@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "matarrr@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "zmoody@owi.com",
+      "domain": "owi.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "jsmithy@owi.com",
+      "domain": "owi.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "haqai@owi.com",
+      "domain": "owi.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ventas@mexicanadelubricantes.com.mx",
+      "domain": "mexicanadelubricantes.com.mx",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no mailbox here)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "info@ipisamexico.com",
+      "domain": "ipisamexico.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.1.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ali@motorollubes.com",
+      "domain": "motorollubes.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ltally@owi.com",
+      "domain": "owi.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "jchavez@casapellas.com",
+      "domain": "casapellas.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "melena@mangueras.com.ni",
+      "domain": "mangueras.com.ni",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no such user)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "mespinoza@comersa.net",
+      "domain": "comersa.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: no such user)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "jparamo@nimac.com.ni",
+      "domain": "nimac.com.ni",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "mgomez@nimac.com.ni",
+      "domain": "nimac.com.ni",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "lmorales@nimac.com.ni",
+      "domain": "nimac.com.ni",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "nasir@petronas.com",
+      "domain": "petronas.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "azhar@petronas.com",
+      "domain": "petronas.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: recipient not found)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "tsotelo@nimac.com.ni",
+      "domain": "nimac.com.ni",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "snape@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "john.ambrogio@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "gary.banavage@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "cgalea@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "adrian.borg@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "albert.muscat@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "imj@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "smd@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "alg@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ramon.casha@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "brm@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "fng@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "thomas.galea@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ezerafa@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "e.zerafa@megabyte.net",
+      "domain": "megabyte.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "asistentedelogistica@pdelaire.com.ni",
+      "domain": "pdelaire.com.ni",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: does not exist)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "msilva@casadelperno.net",
+      "domain": "casadelperno.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.1.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ugomez@casadelperno.net",
+      "domain": "casadelperno.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.1.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "ventasmundodelconcreto@casadelperno.net",
+      "domain": "casadelperno.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.1.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "vcastellon@casadelperno.net",
+      "domain": "casadelperno.net",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.1.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    },
+    {
+      "email": "questions@peakauto.com",
+      "domain": "peakauto.com",
+      "core": "",
+      "reason_code": "bounce_hard",
+      "reason_text": "历史退信(dead: 550 5.4.1)",
+      "source": "bounce_report_historical",
+      "added_at": "2026-08-14T01:42:08.177Z",
+      "added_by": "auto_bounce_scan"
+    }
+  ],
+  "domain_blocks": []
+}
